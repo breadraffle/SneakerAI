@@ -1,0 +1,6 @@
+names:
+- Air Jordan 1 High OG
+- Yeezy Boost 350
+nc: 2
+train: wandb-artifact://custom_yolov5/train
+val: wandb-artifact://custom_yolov5/val

@@ -1,0 +1,6 @@
+names:
+- Air Jordan 1 High OG
+- Yeezy Boost 350
+nc: 2
+train: custom_dataset/train
+val: custom_dataset/val
