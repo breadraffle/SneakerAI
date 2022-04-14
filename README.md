@@ -1,6 +1,6 @@
 # Sneaker Detection Project
 
-## Trained using the YOLOV5 architectures
+## Trained using the YOLOV5 architectures and models
 
 ### Results
 
