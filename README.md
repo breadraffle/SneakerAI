@@ -12,9 +12,8 @@
 
 
 
-
+### Train Data Generated from https://wandb.ai/
 ![image](https://user-images.githubusercontent.com/63750347/163281598-3b9221b1-b478-4b89-8a3b-e1e70297c24c.png)
-
 
 ![W B Chart 4_13_2022, 6_40_45 PM](https://user-images.githubusercontent.com/63750347/163281652-26ee4d1e-4420-4a96-af08-e4b8660ef4ac.png)
 
