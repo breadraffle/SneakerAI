@@ -15,8 +15,9 @@
 ### Train Data Generated from https://wandb.ai/
 ![image](https://user-images.githubusercontent.com/63750347/163281598-3b9221b1-b478-4b89-8a3b-e1e70297c24c.png)
 
-#### Overall Precision after 400 epochs ~96% accuracy
+#### Overall Precision after 400 epochs ~96% accuracy (higher is better)
 ![W B Chart 4_13_2022, 6_40_45 PM](https://user-images.githubusercontent.com/63750347/163281652-26ee4d1e-4420-4a96-af08-e4b8660ef4ac.png)
 
 
+#### Overall Loss after 400 epochs (lower is better), loss is a value defined by how wrong a prediction was.
 ![W B Chart 4_13_2022, 6_41_04 PM](https://user-images.githubusercontent.com/63750347/163281682-77ed9948-8e04-4340-af38-c6189393c0a0.png)
